@@ -1,0 +1,7 @@
+[
+  { "slug": "restaurant", "name": "Εστιατόριο" },
+  { "slug": "gym", "name": "Γυμναστήριο" },
+  { "slug": "hair-salon", "name": "Κομμωτήριο" },
+  { "slug": "cafe", "name": "Καφέ" },
+  { "slug": "lawyer", "name": "Δικηγόρος" }
+]
