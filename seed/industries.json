@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "restaurant",
+    "name": "Restaurant",
+    "description": "AI tools & templates for restaurants"
+  },
+  {
+    "slug": "gym",
+    "name": "Gym",
+    "description": "AI tools & templates for gyms"
+  },
+  {
+    "slug": "salon",
+    "name": "Salon",
+    "description": "AI tools & templates for beauty salons"
+  }
+]
